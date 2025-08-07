@@ -1,0 +1,15 @@
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.AssemblyInfo.cs
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.sourcelink.json
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.exe
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.deps.json
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.runtimeconfig.json
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.dll
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.pdb
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.dll
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\refint\WarehouseInventory.dll
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.pdb
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.genruntimeconfig.cache
+C:\Users\Awuley\dcit318-assignment3-11337494\dcit318-assignment3-11337494\WarehouseInventory\obj\Debug\net9.0\ref\WarehouseInventory.dll
