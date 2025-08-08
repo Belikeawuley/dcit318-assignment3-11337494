@@ -1,0 +1,8 @@
+1, John Doe, 85
+2, Jane Smith, 72
+3, Invalid Student, eighty-five
+4, Missing Score, 
+5, Robert Johnson, 91
+6, Mary Williams, 64
+7, James Brown, 53
+8, Patricia Davis, 42

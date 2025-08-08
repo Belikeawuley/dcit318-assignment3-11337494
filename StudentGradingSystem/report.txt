@@ -1,0 +1,6 @@
+John Doe (ID: 1): Score = 85, Grade = A
+Jane Smith (ID: 2): Score = 72, Grade = B
+Robert Johnson (ID: 5): Score = 91, Grade = A
+Mary Williams (ID: 6): Score = 64, Grade = C
+James Brown (ID: 7): Score = 53, Grade = D
+Patricia Davis (ID: 8): Score = 42, Grade = F
